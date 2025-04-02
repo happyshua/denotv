@@ -296,7 +296,7 @@ const HTML_TEMPLATE = `
             </div>
             
             <div class="mt-6 pt-4" style="border-top: 1px solid var(--color-border);">
-                <p class="text-xs" style="color: var(--color-text-secondary);">当前站点代码：
+                <p class="text-xs" style="color: var(--color-text-secondary);">当前服务器状态：
                     <span id="currentCode" style="color: var(--color-text-primary); font-family: monospace;"></span>
                     <span id="siteStatus" class="ml-2"></span>
                 </p>
