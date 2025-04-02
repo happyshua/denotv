@@ -276,8 +276,8 @@ const HTML_TEMPLATE = `
             <div>
                 <label class="block text-sm font-medium mb-2" style="color: var(--color-text-secondary);">选择采集站点</label>
                 <select id="apiSource" class="w-full px-3 py-2.5 rounded-lg focus:outline-none focus:border-indigo-500 transition-colors" style="background-color: var(--color-bg-secondary); border: 1px solid var(--color-border); color: var(--color-text-primary);">
-                    <option value="heimuer">服务器1</option>
-                    <option value="360">服务器2</option>
+                    <option value="360">服务器1</option>
+                    <option value="heimuer">服务器2</option>
                     <option value="ffzy">服务器3</option>
                     <option value="custom">自定义接口</option>
                 </select>
